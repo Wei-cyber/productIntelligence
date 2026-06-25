@@ -27,6 +27,9 @@ SerpAPI ──▶ extract.py ──▶ bronze_raw_results      (raw JSON, untouc
 
 ![example2](examples/NveSSD_charts.png)
 
+## Findings
+Wireless earbuds, air fryers, and NVMe SSDs were tracked over six consecutive hours. As illustrated above, the bass stereo headphone remained constant in price while its search rank position fluctuated. In contrast, the pricing of NVMe SSD stayed for first three hours, then dropped in the next hour. It remained unchanged in the following hours. Also, its search rank position matched this pattern. These two are just two samples of products tracked. To conclude, headphones changed either in price or search rank or both while some air fryers did not change at all. In other words, products could behave differently regardless of their categories. 
+
 ## Quickstart
 
 1. Install Docker version 29.5.3+
